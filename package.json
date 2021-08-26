@@ -1,5 +1,5 @@
 {
-  "name": "Discord Oauth2 Login Template",
+  "name": "discordoauth2logintemplate",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
