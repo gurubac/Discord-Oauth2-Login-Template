@@ -10,7 +10,7 @@ export default class Login extends Component {
         />
         <title>Login</title>
         <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" />
-        <a href="http://localhost:3000/auth">
+        <a href="https://discordoauth2logintemplate.herokuapp.com/auth">
         <div class="border border-light p-3 mb-4">
           <div class = "text-center">
             <button type="button" class="btn btn-primary btn-lg">Login with Discord</button>

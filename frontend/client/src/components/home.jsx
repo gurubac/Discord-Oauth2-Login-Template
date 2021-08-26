@@ -7,7 +7,7 @@ export default class Home extends Component {
   }
 
   callAPI() {
-    fetch("http://localhost:3000/userInfo")
+    fetch("https://discordoauth2logintemplate.herokuapp.com/userInfo")
       .then((res) => res.json())
       .then((res) => this.setState({ userInfoResponse: res }))
       .catch((err) => err);
