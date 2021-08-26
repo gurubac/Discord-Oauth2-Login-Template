@@ -28,7 +28,6 @@
     "react": "^17.0.2"
   },
   "dependencies": {
-    "bcrypt": "^5.0.1",
     "bootstrap": "^5.0.1",
     "constantinople": "^4.0.1",
     "cors": "^2.8.5",
