@@ -1,3 +1,6 @@
+# Discord Oauth2 Login Template
+
+## A simple template using react and express to login with discord on websites.
 ## Your .env file should look like
 
 **Mongo DB connection URL**
