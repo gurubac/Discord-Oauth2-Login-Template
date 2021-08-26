@@ -11,20 +11,20 @@
 
 **Mongo DB connection URL**
 
-MONGO_LOCAL_CONN_URL=
+```MONGO_LOCAL_CONN_URL=```
 
 **Discord Oauth2 Stuff**
 
-CLIENT_ID =
+```CLIENT_ID =```
 
-CLIENT_SECRET =
+```CLIENT_SECRET =```
 
-CLIENT_REDIRECT =
+```CLIENT_REDIRECT =```
 
 **Desired localhost port number (currently 3000)**
 
-PORT =
+```PORT =```
 
 **Express session secret**
 
-SESSION_SECRET =
+```SESSION_SECRET =```
