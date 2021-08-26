@@ -1,0 +1,53 @@
+{
+  "name": "Discord Oauth2 Login Template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "frontend/docs"
+  },
+  "scripts": {
+    "start": "cd frontend && cd client && npm run build && cd .. && cd .. && node src/Server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirvado/Nirvado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nirvado/Nirvado/issues"
+  },
+  "homepage": "https://github.com/Nirvado/Nirvado#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "nodemon": "^2.0.7",
+    "prettier": "^2.3.0",
+    "react": "^17.0.2"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.0.1",
+    "cloudinary": "^1.25.1",
+    "constantinople": "^4.0.1",
+    "cors": "^2.8.5",
+    "datauri": "^3.0.0",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "express-validator": "^6.11.1",
+    "jade": "^1.11.0",
+    "jquery": "^3.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.9",
+    "multer": "^1.4.2",
+    "passport": "^0.4.1",
+    "passport-discord": "^0.1.4",
+    "passport-jwt": "^4.0.0",
+    "react-dom": "^17.0.2",
+    "signale": "^1.4.0"
+  }
+}
