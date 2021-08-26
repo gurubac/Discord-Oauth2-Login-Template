@@ -2,12 +2,9 @@
   "name": "discordoauth2logintemplate",
   "version": "1.0.0",
   "main": "index.js",
-  "directories": {
-    "doc": "frontend/docs"
-  },
+ 
   "scripts": {
-    "postinstall": "cd frontend && cd client && npm run build",
-    "start": "node src/Server.js",
+    "start": "cd frontend && cd client && npm run build && cd .. && cd .. && node src/Server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
