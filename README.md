@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/gurubac/Discord-Oauth2-Login-Template/main/readmeimage.png" />
 </p>
 
-****This template is perfect for anyone looking to use discord as a primary or secondary authentication system! Some examples of people who typically implement systems like this are discord server owners who provide any type of online service. Discord authentication is very popular with automation checkout software, bot dashboards, proxy companies for sneaker/retail botting, sneaker info groups, and so much more!****
+****This template is perfect for anyone looking to use discord as a primary or secondary authentication system! Some examples of people who typically implement systems like this are discord server owners who provide any type of online service. Discord authentication is very popular with automated checkout software, discord user managment bot dashboards, proxy companies for sneaker/retail botting, sneaker info groups, and so much more!****
 
 
 ## Setup
