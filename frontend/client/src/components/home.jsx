@@ -39,7 +39,7 @@ export default class Home extends Component {
               Welcome to the home page {this.state.userInfoResponse.username}#{this.state.userInfoResponse.discriminator}!
               <img src = {"https://cdn.discordapp.com/avatars/" + this.state.userInfoResponse.discordId + "/" + this.state.userInfoResponse.avatar + ".png"} />
             </h1>
-            <a href="http://localhost:3000/auth/logout">
+            <a href="https://discordoauth2logintemplate.herokuapp.com/auth/logout">
               <button>Logout</button>
             </a>
           </div>
