@@ -2,6 +2,8 @@
 
 ## Live example - https://discordoauth2logintemplate.herokuapp.com/login
 
+**Please allow a few seconds for the site to load as it is hosted on a free heroku dyno which shuts down automatically after periods of inactivity.**
+
 ### A simple template using react and express to login with discord on websites.
 
 <p>
